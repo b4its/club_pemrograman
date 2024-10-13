@@ -1,0 +1,5 @@
+praktikum 1
+bikin web biodata diri, didalamnya ada html dan css
+html: h1, p, img
+
+css bebas.

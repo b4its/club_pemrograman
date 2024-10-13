@@ -1,0 +1,46 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: 2em;
+}
+
+.container form {
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 2em;
+    border-radius: 12px;
+    border: 1px solid black;
+
+}
+
+.container form input {
+    height:35px;
+    width: 500px;
+    border-radius: 7px;
+    border: 1px solid black;
+}
+
+.container form button {
+    margin: 0 auto;
+    background: white;
+    border: 1px solid black;
+    color:black;
+    padding: 0.7em;
+    width: 100px;
+    border-radius: 5px;
+}
+
+.container form button:hover {
+    margin: 0 auto;
+    background: black;
+    border: 1px solid black;
+    color: white;
+    padding: 0.7em;
+    width: 100px;
+    border-radius: 5px;
+}
+
+
