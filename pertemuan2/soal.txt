@@ -1,0 +1,13 @@
+
+
+
+
+
+buatkan sebuah program perhitungan luas dan keliling lingkaran 
+menggunakan bahasa c++
+
+Luas lingkaran (L) = πr2 atau π x r x r.
+Keliling lingkaran (K) = 2 x π x r = 2πr atau Keliling lingkaran = π x diameter
+
+PI = 3.14
+Math.pow
